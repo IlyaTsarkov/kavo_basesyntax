@@ -1,0 +1,7 @@
+a = list(range(4))
+a = iter(a)
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
+print(next(a))
